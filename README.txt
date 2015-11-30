@@ -10,10 +10,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Viewing images on the full screen. Using the touch/mouse position for panning.
 
 == Description ==
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+View large images up close using simple mouse interaction, and the full screen.
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+Add full-screen-image class to image. The one mandatory attribute is either a src, data-image or a href, which needs to point to an image file. You can use data-image if you want to load in a different version of the image to the original source (higher resolution, for example).
+
+You can also pass through titles, and subcaptions, which will appear at the bottom right of the viewer. To do this, you use the data-title and data-caption attributes.
+
+This plugin is based on Intense Image Viewer javascript liabrary by Tim Holman
 
 == Installation ==
 From your WordPress dashboard:
