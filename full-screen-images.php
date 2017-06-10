@@ -10,7 +10,7 @@
 * Plugin Name:       Full Screen Images
 * Plugin URI:        https://github.com/kiranpotphode/full-screen-images
 * Description:       Viewing images on the full screen. Using the touch/mouse position for panning.
-* Version:           1.0.0
+* Version:           1.0.1
 * Author:            Kiran Potphode
 * Author URI:        https://github.com/kiranpotphode/full-screen-images
 * License:           GPL-2.0+
